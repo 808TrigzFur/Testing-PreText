@@ -6,9 +6,9 @@
 <frontmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="frontmatter">
   <titlepage>
     <author>
-      <personname>You</personname>
-      <department>Your department</department>
-      <institution>Your institution</institution>
+      <personname>Wolfie</personname>
+      <department>College Student</department>
+      <institution>University of Hawaii at West Oahu</institution>
     </author>
     <date>
       <today />
@@ -16,6 +16,8 @@
   </titlepage>
 
   <colophon>
+
+    
 
     <website>
       <url href="https://pretextbook.org">My Website</url>

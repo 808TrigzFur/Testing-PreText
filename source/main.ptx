@@ -5,14 +5,34 @@
   <xi:include href="./docinfo.ptx" />
 
   <book xml:id="my-great-book">
-    <title>My Great Book</title>
-    <subtitle>An example to get you started</subtitle>
+    <title>The Composition of Advanced Mathematics</title>
+    <subtitle>A hub for advanced level mathematics</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
-    <xi:include href="./ch-chapter-title.ptx" />
+    <xi:include href="Priliminaries/ch-Preliminaries.ptx" />
+    <xi:include href="Calculus/ch-Calculus.ptx" />
+    <xi:include href="Linear.Algebra/ch-Linear-Algebra.ptx" />
+    <xi:include href="Differential.Equations/ch-Differential-Equations.ptx" />
+    <xi:include href="Real.Analysis/ch-Real-Analysis.ptx" />
+    <xi:include href="Numerical.Analysis/ch-Numerical-Analysis.ptx" />
+    <xi:include href="Discrete.Math/ch-Discrete-Math.ptx" />
+    <xi:include href="Abstract.Algebra/ch-Abstract-Algebra.ptx" />
+    <xi:include href="Euclidian.Geometry/ch-Euclidian-Geometry.ptx" />
+    <xi:include href="Topology/ch-Topology.ptx" />
+    <xi:include href="Probability/ch-Probability.ptx" />
+    <xi:include href="Statistics/ch-Statistics.ptx" />
+   
+   
+  
+  
+    
+  
+
+
+
 
 
     <!-- Include backmatter -->

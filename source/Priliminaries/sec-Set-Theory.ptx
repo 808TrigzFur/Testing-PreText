@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-Set-Theory" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Set Theory</title>
+
+  <definition xml:id="def-">
+    <statement>
+      <p>
+      A <term>set</term> is like <m> a^2 + b^2 = c^2 </m>
+      </p>
+    </statement>
+  </definition>
+  
+  <p>
+    The previous is the represent the pythagorean theorem.
+  </p>
+
+</section>
