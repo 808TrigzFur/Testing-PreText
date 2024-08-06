@@ -100,13 +100,22 @@ var ptx_lunr_docs = [
   "body": " Abstract Algebra   Text before the first section.   "
 },
 {
-  "id": "ch-Euclidian-Geometry",
+  "id": "sec-Euclid-1",
   "level": "1",
-  "url": "ch-Euclidian-Geometry.html",
-  "type": "Chapter",
-  "number": "9",
-  "title": "Euclidian Geoemtry",
-  "body": " Euclidian Geoemtry   Text before the first section.   "
+  "url": "sec-Euclid-1.html",
+  "type": "Section",
+  "number": "9.1",
+  "title": "Euclid 1",
+  "body": " Euclid 1    Given distinct points and . The segment  is the set whose members are the points and and all points that lie on the line and are between and . The two given points and are called the endpoints of the segment .    "
+},
+{
+  "id": "def-",
+  "level": "2",
+  "url": "sec-Euclid-1.html#def-",
+  "type": "Definition",
+  "number": "9.1.1",
+  "title": "",
+  "body": "  Given distinct points and . The segment  is the set whose members are the points and and all points that lie on the line and are between and . The two given points and are called the endpoints of the segment .   "
 },
 {
   "id": "ch-Topology",
