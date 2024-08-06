@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-Euclid-1" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Euclid 1</title>
+
+  <definition xml:id="def-">
+    <statement>
+      <p>
+      Given distinct points <m>A</m> and <m>B</m>. 
+      The <term>segment</term> <m>AB</m> is the set whose members are the points
+      <m>A</m> and <m>B</m> and all points <m> C</m> that lie on the 
+      line <m>\overleftrightarrow{AB}</m> and are between <m>A</m> 
+      and <m>B</m>. The two given points <m>A</m> and <m>B</m> are called the <term>endpoints</term> of the segment <m>AB</m>.
+      </p>
+    </statement>
+  </definition>
+
+ 
+  
+
+</section>
+
